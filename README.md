@@ -1,7 +1,7 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/renanfneves/15e438dcef639b6a087037eccf05f2b3/raw/9c804a5b506623ea2359b8a576d9d6692a7499d7/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Renan Neves</h1>
 
-- 🔥 Senior Web Engineer & Co-Founder @My Journey Health
+- 🔥 Senior Software Engineer & Co-Founder @My Journey Health
 
 - 🔭 I’m currently working at [Intellias](https://intellias.com/)
 
