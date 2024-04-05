@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Intellias](https://intellias.com/)
 
-- 💬 Ask me about **JavaScript, Typescript, React, Next.js, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about **JavaScript, Typescript, ReactJs, Next.js, HTML, CSS, SQL, Node.JS, Restful APIs, MongoDB, Web Development, Design System, Monorepo, Micro Services, Clean Code, SOLID, Clean Architecture and DevOps**
 
 - 👨‍💻 More at [LinkedIn](https://www.linkedin.com/in/renan-floriano-neves/)
 
